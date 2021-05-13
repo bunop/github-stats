@@ -2,8 +2,8 @@
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+![](https://bunop.github.io/github-stats/overview.svg)
+![](https://bunop.github.io/github-stats/languages.svg)
 
 </a>
 
@@ -92,7 +92,7 @@ For more information on inaccuracies, see issue
 7. Check out the images that have been created in the `gh-pages` branch. See the
    [About GitHub Pages](https://docs.github.com/en/github/working-with-github-pages/about-github-pages)
    documentation to see how to enable github pages and serving your generated images
-   through urls. 
+   through urls.
 8. Link back to this repository so that others can generate their own
    statistics images.
 9. Star this repo if you like it!
